@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-faq-accordion-using-javascript-JLIWbTpHE1)
+- Live Site URL: [Live Site](https://ademolaademeso-faq-akrdn.vercel.app/)
 
 ## My process
 
